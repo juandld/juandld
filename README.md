@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juandld - Also known as Rawtale
 - 👀 I’m interested in becoming a Von Neumann probe
-- 🌱 I’m currently learning Backend through jetpack.io
-- 💞️ I’m looking to collaborate on traditional business implementations of AI
+- 🌱 I’m currently learning to use Firebase, I want to launch products for myself.
+- 💞️ I’m looking to make websites more accesable in my homecountry.
 - 📫 How to reach me : https://www.linkedin.com/in/juandldct/
