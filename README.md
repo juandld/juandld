@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juandld - Also known as Rawtale
 - 👀 I’m interested in becoming a Von Neumann probe
-- 🌱 I’m currently learning to use Firebase, I want to launch products.
-- 💞️ I’m looking to make websites more accesable in my homecountry.
+- 🌱 I’m currently learning to use Langchain and Llama index, very interested in orchestrating AI.
+- 💞️ I’m looking to make websites more accesable in my homecountry. Also making technology more accesable.
 - 📫 How to reach me : https://www.linkedin.com/in/juandldct/
